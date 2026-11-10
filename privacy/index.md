@@ -25,7 +25,7 @@ Farm Runners is a game for players of all ages, published by Skynet Studio ("we"
 
 **Purchases.** Purchases are made through Google Play or the App Store. We never see your payment details. The game keeps a purchase reference so it can give you what you bought exactly once and restore "No Ads" on a new device.
 
-**Ads.** The game shows ads through Unity LevelPlay, with Unity Ads serving them. Every ad request is marked as coming from a child (COPPA and Google Play Families settings), so the ads are not personalised and your advertising ID is not used. To show ads, prevent fraud and count views, the ad provider receives technical information such as your device type, operating system, app version, an app-specific device identifier and an approximate location (country or region) derived from your IP address. It also sees how you interact with the ads. If you buy "No Ads", the game stops showing interstitial ads; videos you choose to watch for a reward still use the ad provider.
+**Ads.** The game shows ads from Google AdMob. Every ad request is marked as coming from a child (COPPA, Google Play Families settings) and limited to ads suitable for all ages, so the ads are not personalised and your advertising ID is not used. To show ads, prevent fraud and count views, Google receives technical information such as your device type, operating system, app version, an app-specific device identifier and an approximate location (country or region) derived from your IP address. It also sees how you interact with the ads. Google's use of this data is described at https://policies.google.com/technologies/partner-sites. If you buy "No Ads", the game stops showing interstitial ads; videos you choose to watch for a reward still use AdMob.
 
 **Gameplay statistics (only if you turn them on).** With Options → Share anonymous play data switched on, the game sends Unity Analytics short reports at the end of a run, such as the animal used, the score and coins collected, and missions finished. Unity Analytics also receives device and diagnostic information (device model, operating system, crash reports and an approximate location). The switch is off when you install the game.
 
@@ -46,15 +46,15 @@ Farm Runners is suitable for children and is designed to comply with the Childre
 
 ## Service providers
 
-- Unity Technologies: game services, cloud save, analytics, ad mediation and ads. https://unity.com/legal/game-player-and-app-user-privacy-policy
-- Google: Google Play, Google Play Games. https://policies.google.com/privacy
+- Unity Technologies: game services, cloud save, analytics. https://unity.com/legal/game-player-and-app-user-privacy-policy
+- Google: ads (AdMob), Google Play, Google Play Games. https://policies.google.com/privacy
 - Apple: App Store, Game Center. https://www.apple.com/legal/privacy/
 
 These companies may process information in countries other than yours, under their own safeguards.
 
 ## How long we keep it
 
-Your cloud save is kept until you delete it from Options. Unity keeps analytics and ad data for the periods set out in its privacy policy.
+Your cloud save is kept until you delete it from Options. Unity keeps analytics data, and Google keeps ad data, for the periods set out in their privacy policies.
 
 ## Changes
 
