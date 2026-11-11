@@ -2,13 +2,13 @@
 layout: default
 title: Farm Runners Privacy Policy
 permalink: /privacy/
----
 
+---
 # Farm Runners Privacy Policy
 
-Last updated: 10 November 2026
+Last updated: 11 November 2026
 
-Farm Runners is a game for players of all ages, published by Skynet Studio ("we"). This policy explains what information the game uses, why, and the choices you have. We wrote it so that both parents and players can read it.
+Farm Runners is a game for players of all ages, published by Skynet Studio (Abdullah Alomran on the App Store; "we"). This policy explains what information the game uses, why, and the choices you have. We wrote it so that both parents and players can read it.
 
 ## The short version
 
@@ -62,4 +62,4 @@ If this policy changes, we update the date at the top. Important changes are als
 
 ## Contact
 
-Skynet Studio, skynetstudio2018@gmail.com
+Skynet Studio (Abdullah Alomran), skynetstudio2018@gmail.com
